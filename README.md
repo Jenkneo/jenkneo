@@ -13,11 +13,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenkneo.lal@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anyonehuman)
 
-## 👨‍💻 Leetcode
-[![LeetCode user jenkneo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjenkneo&logo=leetcode&logoColor=yellow)](https://leetcode.com/jenkneo/) 
-
-(🚀 смело иду к To The Moon)
-
 ## 💻 Навыки:
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
@@ -31,3 +26,11 @@
 ![Sentry](https://img.shields.io/badge/Sentry-421342?style=for-the-badge&logo=sentry&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## 👨‍💻 Leetcode
+[![LeetCode user jenkneo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjenkneo&logo=leetcode&logoColor=yellow)](https://leetcode.com/jenkneo/) 
+
+(🚀 смело иду к To The Moon)
+
+## 📖 Конспекты
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://jenkneo.notion.site/7d32085e0da64a2d8708ecadf791951f?pvs=4)
