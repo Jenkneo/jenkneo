@@ -25,7 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenkneo&layout=compact&hide=shell&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenkneo&layout=compact&hide=shell&theme=dark) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jenkneo&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## 📖 Дополнительно (кликабельно)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://jenkneo.notion.site/7d32085e0da64a2d8708ecadf791951f?pvs=4)
