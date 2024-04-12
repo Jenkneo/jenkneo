@@ -1,14 +1,15 @@
+{:: comment}
 # Обо мне:
-
 ## 📚 Образование:
-- 👨‍🎓 Информационная безопасность (Колледж)
-- 🎓 Python-backend разработчик на Django (Курс - 9 месяцев)
+# - 👨‍🎓 Информационная безопасность (Колледж)
+# - 🎓 Python-backend разработчик на Django (Курс - 9 месяцев)
+{:/comment}
 
-## ✉︎ Связь:
+## ✉︎ Contacs:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenkneo.lal@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anyonehuman)
 
-## 💻 Навыки:
+## 💻 Skills:
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -25,9 +26,9 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenkneo&layout=compact&hide=shell&theme=dark) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jenkneo&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenkneo&layout=compact&hide=shell&theme=dark)
 
-## 📖 Дополнительно (кликабельно)
+## 📖 Links
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://jenkneo.notion.site/7d32085e0da64a2d8708ecadf791951f?pvs=4)
 [![LeetCode user jenkneo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjenkneo&logo=leetcode&logoColor=yellow)](https://leetcode.com/jenkneo/) 
 
